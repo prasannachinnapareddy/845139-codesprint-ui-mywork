@@ -1,0 +1,18 @@
+My associate id:
+845139
+Other team members:
+845139, 845138, 845026, 845141, 845087
+Team lead:
+845087
+My Role in team:
+1. I developed Place Gift Order Page and Some Validations of that Page.
+My development files:
+1. placeOrder.html
+I was strong in:
+1. HTML
+2. Bootstrap
+3. CSS
+I was weak in:
+1. Javascript
+Feedback:
+1. Good to learn what to do and how to implement in desiging part.
